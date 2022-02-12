@@ -5,7 +5,7 @@ module.exports = {
 		author: `Heri Setiawan`,
 		description: `Data analyst and create open source projects.`,
 		domain: 'herisetiawan.gatsbyjs.io',
-		siteUrl: `herisetiawan.gatsbyjs.io`,
+		siteUrl: `basemaster.gatsbyjs.io`,
 		repo: 'https://github.com/heriswn/gatsby-boom',
 		social: {
 			twitter: `https://twitter.com/swnheri`,
